@@ -17,8 +17,8 @@ very robust commecial D&D- or rogue-like rpg
 ## Frozen In Time module ##
 
 "an adventure for 6 characters"
-- offcial site [ Dungeon Crawl Classics #79: Frozen In Time ] (https://goodman-games.com/store/product/dungeon-crawl-classics-79-frozen-in-time/)
-- review-of-sorts [ Frozen in Time - DCC Trove of Treasures ] (http://dcctreasures.blogspot.com/2017/01/frozen-in-time.html)
+- official site [Dungeon Crawl Classics #79: Frozen In Time](https://goodman-games.com/store/product/dungeon-crawl-classics-79-frozen-in-time/)
+- review-of-sorts [Frozen in Time - DCC Trove of Treasures](http://dcctreasures.blogspot.com/2017/01/frozen-in-time.html)
 
 
 
